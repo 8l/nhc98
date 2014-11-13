@@ -1,3 +1,6 @@
+The nhc98 compiler
+https://www.haskell.org/nhc98/
+
 If you have just got hold of a copy of the darcs repository, you will
 need to run "sh start" before proceeding.
 
